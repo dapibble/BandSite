@@ -2082,7 +2082,7 @@ input, select, textarea {
 	}
     @media screen and (max-width: 600px) {
       #bandlogo {
-        width:120%;
+        width:500%;
         margin-left: -10%;
       }
     }
