@@ -2083,7 +2083,7 @@ input, select, textarea {
       #bandlogo {
 	      width:150%
 	      margin-left: -10%;
-      }
+      } 
     
 @media screen and (min-width: 601px) {
   #bandlogo {
