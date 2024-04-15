@@ -2080,10 +2080,7 @@ input, select, textarea {
 		padding: 0;
 		overflow: hidden;
 	} 
-      #bandlogo {
-	      width:150%
-	      margin-left: -10%;
-      } 
+      
     @media screen and (max-width: 600px) {
   #bandlogo {
     width:150%;
@@ -2095,7 +2092,7 @@ input, select, textarea {
   #bandlogo {
     width:100%;
     margin-left:-3px;
-    background-image: url()
+    background-image: url(images/79E901AF-5E41-4148-B7D6-C87697D8F966.tiff)
   }
 }
 		#header:before {
