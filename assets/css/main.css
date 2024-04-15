@@ -2085,14 +2085,14 @@ input, select, textarea {
   #bandlogo {
     width:150%;
     margin-left:-10%
-    background-image: url(images/IMG_5826.png)
+    
   }
 }
 @media screen and (min-width: 601px) {
   #bandlogo {
     width:100%;
     margin-left:-3px;
-    background-image: url(images/79E901AF-5E41-4148-B7D6-C87697D8F966.tiff)
+    
   }
 }
 		#header:before {
