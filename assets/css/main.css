@@ -2084,7 +2084,7 @@ input, select, textarea {
     @media screen and (max-width: 600px) {
   #bandlogo {
     width:150%;
-    margin-left:-10%
+    margin-left:-3%
     
   }
 }
